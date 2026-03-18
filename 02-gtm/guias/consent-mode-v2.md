@@ -2,7 +2,7 @@
 
 ## ¿Qué es Consent Mode?
 
-Consent Mode es el mecanismo de Google para adaptar el comportamiento de sus etiquetas (GA4, Google Ads, Floodlight) al consentimiento del usuario. En lugar de bloquear o permitir las etiquetas por completo, Consent Mode les indica si tienen o no permiso para leer/escribir cookies, y las etiquetas ajustan su comportamiento en consecuencia.
+Consent Mode es el mecanismo de Google para adaptar el comportamiento de sus etiquetas (GA4, Google Ads, Floodlight) al consentimiento del usuario. En lugar de bloquear o permitir las etiquetas por completo, Consent Mode les indica si tienen o no permiso para leer/escribir cookies, y las etiquetas ajustan su comportamiento en consecuencia..
 
 ## ¿Por qué es obligatorio?
 
