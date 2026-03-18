@@ -2,7 +2,7 @@
 
 ## ¿Qué es el dataLayer?
 
-El dataLayer es un array de JavaScript (`window.dataLayer`) que actúa como puente entre tu sitio web y Google Tag Manager. Cada vez que ocurre algo relevante en la web, se hace un `push` al dataLayer con los datos del evento, y GTM los recoge para enviarlos a GA4 (u otras herramientas).
+El dataLayer es un array de JavaScript (`window.dataLayer`) que actúa como puente entre tu sitio web y Google Tag Manager. Cada vez que ocurre algo relevante en la web, se hace un `push` al dataLayer con los datos del evento, y GTM los recoge para enviarlos a GA4 (u otras herramientas)..
 
 ```javascript
 // Así se ve el dataLayer en consola
